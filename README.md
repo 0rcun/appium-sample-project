@@ -23,4 +23,4 @@ It drives iOS, Android, and Windows apps using the WebDriver protocol.
 - I created this sample with guidance of Onur Baskirt's [article](https://www.swtestacademy.com/appium-tutorial/).
 
 ### Video
-![video](https://raw.githubusercontent.com/0rcun/appium-sample-project/main/video.gif?token=GHSAT0AAAAAABWIN2CJYTDRUAY63ISWCFJYYW2XQ2Q)
+![video](https://github.com/0rcun/appium-sample-project/blob/main/video.gif)
